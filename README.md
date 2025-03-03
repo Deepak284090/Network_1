@@ -73,25 +73,6 @@ A visual representation of the network topology has been provided.
 2. Review the network diagram and configuration files.
 3. Deploy and test the network using simulation software (e.g., Cisco Packet Tracer, GNS3).
 
-## Future Enhancements
-- Implementing dynamic routing for better scalability.
-- Adding VLANs for better segmentation and security.
-- Enhancing redundancy with additional backup links.
-
-## Author
-[Your Name]
-
-## License
-This project is licensed under the MIT License.
-
-)
-
-## How to Use
-1. Clone the repository using:
-   ```sh
-   git clone https://github.com/Deepak284090/Network_1.git
-   ```
-2. Deploy and test the network using simulation software (e.g., Cisco Packet Tracer).
 
 ## Author
 Deepak Kumar Sirsaha
