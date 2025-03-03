@@ -30,8 +30,8 @@ This project presents a network design for Dplink Network Solutions, a mid-sized
 ## Network Diagram
 A visual representation of the network topology has been provided.
 
-![Network Diagram](
-![Screenshot 2025-03-02 093533](https://github.com/user-attachments/assets/f4f2aaaf-cdf2-400b-a968-6297ff47a4a5))
+
+![Screenshot 2025-03-02 093533](https://github.com/user-attachments/assets/f4f2aaaf-cdf2-400b-a968-6297ff47a4a5)
 
 ## How to Use
 1. Clone the repository using:
